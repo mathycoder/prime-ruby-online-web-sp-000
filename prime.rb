@@ -4,7 +4,6 @@ def prime?(int)
     return false 
   elsif int < 0 
     int = int * -1
-    puts int 
   end 
   range = (2..int-1).to_a
   range.none? do |divisor|
