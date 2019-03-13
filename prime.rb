@@ -1,4 +1,4 @@
-# Add  code here!
+
 def prime?(int)
   if int == 1 || int < 0  || int == 0 
     return false 
