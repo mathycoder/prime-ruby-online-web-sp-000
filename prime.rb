@@ -9,3 +9,4 @@ def prime?(int)
 end 
 
 puts prime?(-5)
+
